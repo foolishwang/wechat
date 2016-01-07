@@ -49,7 +49,7 @@ class Js extends AbstractAPI
     /**
      * Ticket cache prefix.
      */
-    const TICKET_CACHE_PREFIX = 'overtrue.wechat.jsapi_ticket.';
+    const TICKET_CACHE_PREFIX = 'easywechat.common.jsapi_ticket.';
 
     /**
      * Api of ticket.
